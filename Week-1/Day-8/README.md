@@ -207,3 +207,6 @@ Component-based architecture provides:
 - Consistent user experience
 
 By dividing the UI into reusable components, developers can build complex enterprise applications more efficiently and maintain them more easily over time.
+
+
+<img width="1600" height="770" alt="day8" src="https://github.com/user-attachments/assets/4ee57b42-822c-43e2-9390-cfd47abf8fbb" />
