@@ -23,8 +23,8 @@ The trigger validates student applications before they are inserted and executes
 
 ```
 Day6/
-│── ApplicationTrigger.trigger
-│── ApplicationTriggerHandler.cls
+│── ApplicationTrigger.apxt
+│── ApplicationTriggerHandler.apxc
 │── README.md
 ```
 
